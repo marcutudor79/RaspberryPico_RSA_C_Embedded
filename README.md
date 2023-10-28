@@ -1,5 +1,5 @@
 # Rear Sensor Array
-<img src="https://scontent.fcnd1-1.fna.fbcdn.net/v/t39.30808-6/298458887_498804708915637_8418388517832502489_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGLFqM6Q4Nl6OvxIF6o3mUhiMYNqIhi20GIxg2oiGLbQX_ZEMJw0kfpHwaDSUm1Dj1jenFUC-DnqTVNBy9s5qns&_nc_ohc=rnUdAryQe0wAX8CNQ18&_nc_ht=scontent.fcnd1-1.fna&oh=00_AfCb7CNnSoUrz6q5vnEu4laZqss6gLH12xEsg7Rm1HpIuA&oe=65422083" width="200px" height="150px">
+<img src="https://scontent.fcnd1-1.fna.fbcdn.net/v/t39.30808-6/298458887_498804708915637_8418388517832502489_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGLFqM6Q4Nl6OvxIF6o3mUhiMYNqIhi20GIxg2oiGLbQX_ZEMJw0kfpHwaDSUm1Dj1jenFUC-DnqTVNBy9s5qns&_nc_ohc=rnUdAryQe0wAX8CNQ18&_nc_ht=scontent.fcnd1-1.fna&oh=00_AfCb7CNnSoUrz6q5vnEu4laZqss6gLH12xEsg7Rm1HpIuA&oe=65422083" width="300px" height="250px">
 
 ## Description
 The motivation behind this project was to have an ADC as close as to the analog values
