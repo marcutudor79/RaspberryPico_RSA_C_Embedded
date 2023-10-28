@@ -9,10 +9,10 @@ that we needed to measure.
 - It is unfortunately inefficient to have just an ADC because it can't communicate via CAN
 
 In order to accomplish this, we came with this idea of a "sensor array" which integrates a mcu to:
-- communicate via i2c with an accelerometer
-- read via adc linear potentiometers from the coilovers 
-- parse and compress data, if possible, in order to reduce CAN overload
-- send data via CAN bus to another device which would store it 
+1. communicate via i2c with an accelerometer
+2. read via adc linear potentiometers from the coilovers 
+3. parse and compress data, if possible, in order to reduce CAN overload
+4. send data via CAN bus to another device which would store it 
 
 We chose the Raspberry Pi Pico as a solution because it is cheap and it can handle all the above requirements with the only exception being CAN communication which we have enabled by using an external library which enables PIOs as CAN ready pins.
 
