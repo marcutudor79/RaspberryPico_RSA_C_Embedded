@@ -1,5 +1,5 @@
 # Rear Sensor Array
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fb2ad26_f145674fd2fc4ba19e0beea19996139c~mv2.jpg%2Fv1%2Ffill%2Fw_1920%2Ch_1280%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_auto%2Fb2ad26_f145674fd2fc4ba19e0beea19996139c~mv2.jpg&f=1&nofb=1&ipt=a7bbcff3b09cb9572609113c8d5c4a3912a81923d02d7648ee1ebc43aefbdbf0&ipo=images" width="300px" height="250px">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fb2ad26_f145674fd2fc4ba19e0beea19996139c~mv2.jpg%2Fv1%2Ffill%2Fw_1920%2Ch_1280%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_auto%2Fb2ad26_f145674fd2fc4ba19e0beea19996139c~mv2.jpg&f=1&nofb=1&ipt=a7bbcff3b09cb9572609113c8d5c4a3912a81923d02d7648ee1ebc43aefbdbf0&ipo=images" width="400px" height="250px">
 
 ## Description
 The motivation behind this project was to have an ADC as close as to the analog values
