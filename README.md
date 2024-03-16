@@ -33,5 +33,5 @@ To see the PCB files, please install KiCAD from [here](https://www.kicad.org/).
 <p><i>Please beware of the jokes on the PCB Soldermask. They are greatly appreciated at Formula Student Comptetitions</i></p>
 
 ## License
-Apache-2.0 License
+GPL-3.0 license
 
